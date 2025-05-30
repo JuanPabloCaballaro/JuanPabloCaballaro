@@ -2,6 +2,4 @@
 - E.E.S.T N°1📖
 - Tecnico en Informatica.💻
 
-  
-![MuaKissGIF](https://github.com/user-attachments/assets/6dd4d122-9fac-4496-8309-b8a96b7d9be9)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,c,cs,cpp,mysql,py,)](https://skillicons.dev)
