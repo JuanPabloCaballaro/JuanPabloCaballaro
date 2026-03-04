@@ -2,7 +2,7 @@
 
 📚 Estudiante en la **E.E.S.T N°1**  
 💻 Técnico en Informática  
-🔧 Apasionado por la programación, el hardware y la tecnología
+🔧 Apasionado por la programación, el hardware y la Oratoria
 
 ---
 
@@ -27,7 +27,7 @@ Trabajo con lenguajes como **Python, C++, JavaScript y HTML/CSS**, y tengo exper
 
 ## 📫 Contacto
 
-- ✉️ caballarojuanpablo@gmail.com 
+- ✉️ caballarojuanpablo06@gmail.com 
 
 ---
 
